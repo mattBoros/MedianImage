@@ -10,5 +10,6 @@ the way of your picture. You can form just the background image by running this 
 ![Image3](https://github.com/mattBoros/MedianImage/blob/master/test_images/IMG-3399.JPG?raw=true)
 
 The script removes all inconsistent parts of the images.
+
 ![ResultImage](https://github.com/mattBoros/MedianImage/blob/master/out.png?raw=true)
 
